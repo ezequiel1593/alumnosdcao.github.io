@@ -15,7 +15,7 @@ correlativas:
     tipo: TP
     url: /materias-at/mate3
   - materia: "Matemática 1"
-    tipo: TP
+    tipo: F
     url: /materias-at/mate1
 abre:
   - materia: "Física 4"
