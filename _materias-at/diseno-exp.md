@@ -21,7 +21,7 @@ abre:
     - materia: "Mareas"
       tipo: TP
       url: /materias-at/mareas
-viejoplan: "¿No existía?"
+viejoplan: "No existe"
 anteriores: "-"
 ---
 
