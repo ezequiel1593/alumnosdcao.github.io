@@ -17,7 +17,7 @@ sass:
 permalink: blog/:year/:month/:title/
 kramdown:
   toc_levels: 1..2
-highlighter: rouge
+highlighter: NULL
 gems:
   - jekyll-sitemap
   - jekyll-gist
