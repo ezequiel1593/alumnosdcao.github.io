@@ -35,7 +35,7 @@
     {id: 'ondas1', label: 'Ondas en \nla Atmósfera 1', group: 'B', title: 'Bimestral', level: 4},
     {id: 'labo-procesamiento', label: 'Laboratorio de Procesamiento \nde Información Meteorológica', group: 'C', title: 'Cuatrimestral', level: 2},
     {id: 'ondas2', label: 'Ondas en \nla Atmósfera 2', group: 'B', title: 'Bimestral', level: 4},
-    {id: 'sinoptica', label: 'Meteorología \nSinóptica', group: 'C', title: 'Cuatrimestral', level: 5}
+    {id: 'meteo-sinoptica', label: 'Meteorología \nSinóptica', group: 'C', title: 'Cuatrimestral', level: 5}
 ]);
 
   // create an array with edges
@@ -79,11 +79,11 @@
     {to: 'ondas2', from: 'fisica2', title: 'TP', color: 'black'},
     {to: 'ondas2', from: 'pequena-escala', title: 'TP', color: 'black'},
 
-    {to: 'sinoptica', from: 'termo', title: 'Final', color: colorF, width: widthF},
-    {to: 'sinoptica', from: 'intro-dinamica', title: 'Final', color: colorF, width: widthF},
-    {to: 'sinoptica', from: 'clima', title: 'TP', color: 'black'},
-    {to: 'sinoptica', from: 'ondas1', title: 'TP', color: 'black'},
-    {to: 'sinoptica', from: 'labo-procesamiento', title: 'TP', color: 'black'},
+    {to: 'meteo-sinoptica', from: 'termo', title: 'Final', color: colorF, width: widthF},
+    {to: 'meteo-sinoptica', from: 'intro-dinamica', title: 'Final', color: colorF, width: widthF},
+    {to: 'meteo-sinoptica', from: 'clima', title: 'TP', color: 'black'},
+    {to: 'meteo-sinoptica', from: 'ondas1', title: 'TP', color: 'black'},
+    {to: 'meteo-sinoptica', from: 'labo-procesamiento', title: 'TP', color: 'black'},
 
   ]);
 
