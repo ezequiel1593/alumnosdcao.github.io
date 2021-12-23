@@ -38,8 +38,8 @@ abre:
     url: /materias-at/meteo-espacial
 viejoplan: "No cambia"
 anteriores:
-  - "2do cuatrimestre 2017: <a href='https://www.df.uba.ar/attachments/article/26/segundo.pdf'>Horarios</a>"
-  - "1er cuatrimestre 2017: <a href='https://www.df.uba.ar/attachments/article/26/primero.pdf'>Horarios</a>"
+  - "2do cuatrimestre 2021: <a href='https://sitio.df.uba.ar/attachments/article/26/segundo2021.pdf'>Horarios</a>"
+  - "1er cuatrimestre 2021: <a href='https://sitio.df.uba.ar/attachments/article/26/primero2021.pdf'>Horarios</a>"
 
 programa: http://materias.df.uba.ar/f1Aa2016c2/programa/
 encuestas: http://encuestas_finales.exactas.uba.ar/mat/m15029.html
